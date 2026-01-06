@@ -393,7 +393,7 @@ main{
 .foot-logo{
     height: 70px;
     width: 100%;
-    background-image: url("drive/amazon_logo.png");
+    background-image: url(drive/amazon_logo.png);
     background-size: cover;
     width: 150px;
     
